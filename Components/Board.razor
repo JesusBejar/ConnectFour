@@ -21,6 +21,12 @@
     <br />
     <span class="alert-danger">@errorMessage</span>
     <span class="alert-info">@CurrentTurn</span>
+    <br />
+    <div class="consecutive-wins">
+        <span style="color: var(--player1);">Player 1: @State.Player1ConsecutiveWins consecutive wins</span>
+        <br />
+        <span style="color: var(--player2);">Player 2: @State.Player2ConsecutiveWins consecutive wins</span>
+    </div>
 </article>
 <div>
     <div class="board">
