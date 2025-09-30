@@ -8,9 +8,7 @@ public class GameState
 		CalculateWinningPlaces();
 	}
 
-	/// <summary>
-	/// Indicate whether a player has won, the game is a tie, or game in ongoing
-	/// </summary>
+
 	public enum WinState
 	{
 		No_Winner = 0,
@@ -19,15 +17,17 @@ public class GameState
 		Tie = 3
 	}
 
-	/// <summary>
-	/// The player whose turn it is.  By default, player 1 starts first
-	/// </summary>
+
 	public int PlayerTurn => TheBoard.Count(x => x != 0) % 2 + 1;
 
-	/// <summary>
-	/// Number of turns completed and pieces played so far in the game
-	/// </summary>
+
 	public int CurrentTurn { get { return TheBoard.Count(x => x != 0); } }
+
+	/// <summary>
+	/// Tracks consecutive wins for each player
+	/// </summary>
+	public int Player1ConsecutiveWins { get; private set; } = 0;
+	public int Player2ConsecutiveWins { get; private set; } = 0;
 
 	public static readonly List<int[]> WinningPlaces = new();
 
@@ -180,6 +180,25 @@ public class GameState
 
 	public void ResetBoard() {
 		TheBoard = new List<int>(new int[42]);
+	}
+
+	public void RecordWin(int winningPlayer)
+	{
+		if (winningPlayer == 1)
+		{
+			Player1ConsecutiveWins++;
+		}
+		else if (winningPlayer == 2)
+		{
+			Player2ConsecutiveWins++;
+		}
+	}
+
+
+	public void ResetConsecutiveWins()
+	{
+		Player1ConsecutiveWins = 0;
+		Player2ConsecutiveWins = 0;
 	}
 
 	private byte ConvertLandingSpotToRow(int landingSpot)
