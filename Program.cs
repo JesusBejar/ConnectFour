@@ -1,4 +1,5 @@
 using ConnectFour.Components;
+using ConnectFour;
 var builder = WebApplication.CreateBuilder(args);
 // game state as a singleton service
 builder.Services.AddSingleton<GameState>();
