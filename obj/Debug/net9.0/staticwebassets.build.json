@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fRyKGVODOAzkv8/bJyya7CWpN5MSjubSt0K3ihJ16ag=",
+  "Hash": "K0EVdd3BIzNYNfEowwaNBGqeL90ljbaWKBltDH0IzIE=",
   "Source": "ConnectFour",
   "BasePath": "_content/ConnectFour",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz",
+      "Identity": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz",
       "SourceId": "ConnectFour",
       "SourceType": "Computed",
       "ContentRoot": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ConnectFour",
-      "RelativePath": "ConnectFour#[.{fingerprint=12oul5q9po}]?.styles.css.gz",
+      "RelativePath": "ConnectFour#[.{fingerprint=e21cd741a2}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q7ncjdb4ef",
-      "Integrity": "hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=",
+      "Fingerprint": "589nzwxbow",
+      "Integrity": "ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css"
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz",
+      "Identity": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz",
       "SourceId": "ConnectFour",
       "SourceType": "Computed",
       "ContentRoot": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ConnectFour",
-      "RelativePath": "ConnectFour#[.{fingerprint=12oul5q9po}]!.bundle.scp.css.gz",
+      "RelativePath": "ConnectFour#[.{fingerprint=e21cd741a2}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q7ncjdb4ef",
-      "Integrity": "hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=",
+      "Fingerprint": "589nzwxbow",
+      "Integrity": "ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "12oul5q9po",
-      "Integrity": "t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=",
+      "Fingerprint": "e21cd741a2",
+      "Integrity": "mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "12oul5q9po",
-      "Integrity": "t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=",
+      "Fingerprint": "e21cd741a2",
+      "Integrity": "mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css"
@@ -2312,13 +2312,13 @@
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.bundle.scp.css",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz",
+      "Route": "ConnectFour.bundle.scp.css",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566572238"
+          "Quality": "0.000405679513"
         }
       ],
       "ResponseHeaders": [
@@ -2328,19 +2328,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2356,26 +2356,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "W/\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "12oul5q9po"
-        },
-        {
-          "Name": "label",
-          "Value": "ConnectFour.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.bundle.scp.css",
+      "Route": "ConnectFour.bundle.scp.css",
       "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2385,7 +2377,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "9774"
         },
         {
           "Name": "Content-Type",
@@ -2393,11 +2385,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
+        }
+      ]
+    },
+    {
+      "Route": "ConnectFour.bundle.scp.css.gz",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM="
+        }
+      ]
+    },
+    {
+      "Route": "ConnectFour.e21cd741a2.bundle.scp.css",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405679513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e21cd741a2"
+        },
+        {
+          "Name": "label",
+          "Value": "ConnectFour.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
+        }
+      ]
+    },
+    {
+      "Route": "ConnectFour.e21cd741a2.bundle.scp.css",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2407,7 +2544,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "12oul5q9po"
+          "Value": "e21cd741a2"
         },
         {
           "Name": "label",
@@ -2415,13 +2552,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.bundle.scp.css.gz",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz",
+      "Route": "ConnectFour.e21cd741a2.bundle.scp.css.gz",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +2567,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "Content-Type",
@@ -2438,11 +2575,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2460,7 +2597,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "12oul5q9po"
+          "Value": "e21cd741a2"
         },
         {
           "Name": "label",
@@ -2468,18 +2605,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE="
+          "Value": "sha256-ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM="
         }
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.styles.css",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz",
+      "Route": "ConnectFour.e21cd741a2.styles.css",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566572238"
+          "Quality": "0.000405679513"
         }
       ],
       "ResponseHeaders": [
@@ -2489,15 +2626,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2517,13 +2654,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "W/\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "12oul5q9po"
+          "Value": "e21cd741a2"
         },
         {
           "Name": "label",
@@ -2531,12 +2668,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.styles.css",
+      "Route": "ConnectFour.e21cd741a2.styles.css",
       "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2546,7 +2683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "9774"
         },
         {
           "Name": "Content-Type",
@@ -2554,11 +2691,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2568,7 +2705,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "12oul5q9po"
+          "Value": "e21cd741a2"
         },
         {
           "Name": "label",
@@ -2576,13 +2713,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
     {
-      "Route": "ConnectFour.12oul5q9po.styles.css.gz",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz",
+      "Route": "ConnectFour.e21cd741a2.styles.css.gz",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +2728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "Content-Type",
@@ -2599,11 +2736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2621,7 +2758,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "12oul5q9po"
+          "Value": "e21cd741a2"
         },
         {
           "Name": "label",
@@ -2629,155 +2766,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE="
-        }
-      ]
-    },
-    {
-      "Route": "ConnectFour.bundle.scp.css",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000566572238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1764"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
-        }
-      ]
-    },
-    {
-      "Route": "ConnectFour.bundle.scp.css",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
-        }
-      ]
-    },
-    {
-      "Route": "ConnectFour.bundle.scp.css.gz",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE="
+          "Value": "sha256-ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM="
         }
       ]
     },
     {
       "Route": "ConnectFour.styles.css",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000566572238"
+          "Quality": "0.000405679513"
         }
       ],
       "ResponseHeaders": [
@@ -2787,15 +2787,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "W/\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
@@ -2836,7 +2836,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5764"
+          "Value": "9774"
         },
         {
           "Name": "Content-Type",
@@ -2844,11 +2844,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\""
+          "Value": "\"mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2858,13 +2858,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-t+GJidi49H+qdsvSN2lfZQymD8gILxmFbklbRkxKOAc="
+          "Value": "sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="
         }
       ]
     },
     {
       "Route": "ConnectFour.styles.css.gz",
-      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz",
+      "AssetFile": "/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2873,7 +2873,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1764"
+          "Value": "2464"
         },
         {
           "Name": "Content-Type",
@@ -2881,11 +2881,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE=\""
+          "Value": "\"ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 22:44:56 GMT"
+          "Value": "Tue, 30 Sep 2025 14:53:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2903,7 +2903,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hvfShjkjdT89WcZxhP1d0XEz2IbFDWTcc2cmvegC4SE="
+          "Value": "sha256-ix40NqspiiOtBKzKs/R887jX8sNCU9wCI+yKis1KNaM="
         }
       ]
     },

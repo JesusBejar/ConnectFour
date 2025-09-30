@@ -61,8 +61,6 @@
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/gr0e8cuikz-h1s4sie4z3.gz
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/ryt7pnzvl8-63fj8s7r0e.gz
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/3mozzcgcz6-0j3bgjxly4.gz
-/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-12oul5q9po.gz
-/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-12oul5q9po.gz
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/staticwebassets.build.json
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/staticwebassets.development.json
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -77,3 +75,7 @@
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/ConnectFour.pdb
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/ConnectFour.genruntimeconfig.cache
 /Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/ref/ConnectFour.dll
+/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/ConnectFour.sourcelink.json
+/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Board.razor.rz.scp.css
+/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-e21cd741a2.gz
+/Users/admin/Documents/GitHub/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-e21cd741a2.gz

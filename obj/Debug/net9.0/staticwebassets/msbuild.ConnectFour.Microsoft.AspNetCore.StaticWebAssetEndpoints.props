@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"khy4lop6wu"},{"Name":"integrity","Value":"sha256-aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs="},{"Name":"label","Value":"_content/ConnectFour/app.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2900"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aNPcLFwdCCGS2v1guSR64Htd4Ly5uclT7taAptnMPbs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 29 Sep 2025 22:44:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ConnectFour/ConnectFour.12oul5q9po.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ConnectFour.12oul5q9po.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"12oul5q9po"},{"Name":"integrity","Value":"sha256-t\u002BGJidi49H\u002BqdsvSN2lfZQymD8gILxmFbklbRkxKOAc="},{"Name":"label","Value":"_content/ConnectFour/ConnectFour.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t\u002BGJidi49H\u002BqdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 29 Sep 2025 22:44:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ConnectFour/ConnectFour.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ConnectFour.12oul5q9po.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ConnectFour.e21cd741a2.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t\u002BGJidi49H\u002BqdsvSN2lfZQymD8gILxmFbklbRkxKOAc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5764"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022t\u002BGJidi49H\u002BqdsvSN2lfZQymD8gILxmFbklbRkxKOAc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 29 Sep 2025 22:44:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9774"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 14:53:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ConnectFour/ConnectFour.e21cd741a2.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ConnectFour.e21cd741a2.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e21cd741a2"},{"Name":"integrity","Value":"sha256-mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k="},{"Name":"label","Value":"_content/ConnectFour/ConnectFour.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9774"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mkZjDkms/FSPqG59qNo93oMhvIk4/zO1IKL9U9iqK7k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 30 Sep 2025 14:53:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ConnectFour/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
